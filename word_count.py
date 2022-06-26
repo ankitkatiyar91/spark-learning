@@ -1,7 +1,6 @@
 import re
 
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import split
 
 from spark_session import get_spark_session
 
